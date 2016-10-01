@@ -1,7 +1,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        
+
+        //быдло
 
         Rectangle rect1, rect2;
         Triangle tr1, tr2;
